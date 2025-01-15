@@ -1,0 +1,7 @@
+{
+  "Auto Attach": false,
+  "Top Most": false,
+  "Client Check Interval": 250,
+  "Execution Listener Interval": 60,
+  "Execution Listener Timeout": 2500
+}
